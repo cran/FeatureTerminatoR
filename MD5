@@ -1,0 +1,15 @@
+9cb74f49f9ee396c1c9125f97dabdc17 *DESCRIPTION
+909a695b985822a1a365d335c156b761 *NAMESPACE
+06bae41e0f8a5c1fe26dd9041e6608c9 *NEWS.md
+7795f4ce197a3f429e822d817d595c08 *R/globals.R
+b5faff941b354927a12b472dbed1dea4 *R/mutlicol_terminatoR.R
+3778ea19bbfcdc01a068800cee0a73f8 *R/rfe_removeR.R
+b7864bdca2777f8d2eb570ed2d08b7e8 *build/vignette.rds
+755fa7e19ce59d8e252b50a17e2d4b36 *inst/doc/feature_terminatoR_howto.R
+ecc08526b446761b0f6dc91104f1d94b *inst/doc/feature_terminatoR_howto.Rmd
+d3ab8f53c929e978a92210e00a86540b *inst/doc/feature_terminatoR_howto.html
+cb49b32562a6eb79a6f0997e57efe553 *man/figures/FeatureTermHex.png
+3ca238b0263ae54c3ea1fa464fe5eb36 *man/mutlicol_terminator.Rd
+dbf076477ddbc174f1ffecc207ad808e *man/rfeTerminator.Rd
+cb49b32562a6eb79a6f0997e57efe553 *vignettes/CopyOfFeatureTermHex.png
+ecc08526b446761b0f6dc91104f1d94b *vignettes/feature_terminatoR_howto.Rmd
